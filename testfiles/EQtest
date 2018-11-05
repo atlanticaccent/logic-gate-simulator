@@ -1,0 +1,3 @@
+a IN
+b IN
+out EQ a b

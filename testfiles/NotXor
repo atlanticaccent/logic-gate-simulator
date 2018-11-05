@@ -1,0 +1,4 @@
+w0 NOT w3
+w1 XOR w1 w0
+w2 XOR w2 w1
+w3 XOR w3 w2

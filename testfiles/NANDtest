@@ -1,0 +1,3 @@
+a IN
+b IN
+out NAND a b
