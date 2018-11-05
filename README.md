@@ -1,6 +1,6 @@
 # logic-gate-simulator
 
-This repository is the solution as submitted for practical 4 of module CS2002 - Computer Systems, 2017-18.
+This repository is the solution as submitted for practical 4 for the 2nd Year Systems, 2017-18.
 
 The objective of this practical was to create a program capable of simulating a stablising digital circuit from a given circuit description, whilst also testing understandings of logic, circuits and gates, and c programming concepts.
 
